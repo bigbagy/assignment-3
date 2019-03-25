@@ -3,7 +3,7 @@ This project seeks to understand the computatitonal and predictive qualities of 
 
 Unsupervised Learning Methods: k-means, expectation maximization (EM)
 
-Dimensionality Reduction Methods: principal components analysis (PCA), independent components analysis (ICA), random components analysis (RCA) and random forest feature selection.
+Dimensionality Reduction Methods: principal components analysis (PCA), independent components analysis (ICA), random components analysis (RCA) and random forest selected components(RFA).
 
 The two example datasets used in this project are:
 
